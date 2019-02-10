@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veequiam.eecs189.org/sitemap.xml
